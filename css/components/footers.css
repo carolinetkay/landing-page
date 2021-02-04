@@ -1,0 +1,19 @@
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    margin: 20px auto;
+    padding: 50px;
+}
+
+.fab {
+    font-size: 35px;
+    margin: 5px 5px;
+    color: #68dba8;
+}
+
+.footnote {
+    color: rgb(243, 234, 223);
+    font-weight: lighter;
+}
